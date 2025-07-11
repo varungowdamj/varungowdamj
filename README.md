@@ -32,5 +32,4 @@ Proficient in **JavaScript (ES6+), React.js, Bootstrap, and MongoDB**, and alway
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/varun-gowda-mj)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/varungowdamj)
-- ⚡ Fun fact: ...
--->
+
